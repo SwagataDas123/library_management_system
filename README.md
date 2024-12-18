@@ -1,1 +1,3 @@
 # library_management_system
+
+In a library, books, and journals are kept. Journals are issued to faculty members only. A stu-dent member can have 2 books issued at a time. For faculty members it is 10. For late return student members are charged Rs. 1 per day. Faculties are not charge. For journals additional information like issue no., date of publish, volume no., etc., are to be stored. For any transaction, members are supposed to place transactions slip. After necessary validations, transaction is carried out. Each transaction is to be noted into a register. Implement the system described above after designing the necessary classes.
